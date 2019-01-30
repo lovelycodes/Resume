@@ -1,0 +1,43 @@
+header h1{
+  background-color: blanchedalmond;
+  margin: 0px;
+  text-align: center;
+  padding: 20px;
+  border: 20px;
+border-color: black;
+}
+header{
+  background-color: azure;
+}
+body {
+background-color:black;
+margin-right: 100px;
+margin-left: 100px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+ 
+main {
+  background-color: whitesmoke;
+}
+
+section {
+  text-align: left;
+  margin-left: 30px;
+  display: inline-block;
+  width: 375px;
+  
+
+}
+ .img {
+  font-size: 150px ;
+ display: inline-block;
+ width: 50px;
+ object-position:relative;
+}
+
+footer {
+  height: 25px;
+  background-size: 100px;
+  background-color: rgb(129, 245, 13);
+}
